@@ -1,10 +1,10 @@
-# Video-Interactivo
+# Video Interactivo
 
 ## Desarrolladores
 Diana Valentina Urrutia, Daniel Felipe Cosme, Daniel Yoel Vanegas
 
 ## Descripción de proyecto
-En este proyecto se deben ver reflejado la narracion audiovisual de una manera coherente, tambien aplicando conceptos como experiencia de usuario y uso de gamificacion.
+En este proyecto se debe ver reflejado la narración audiovisual de una manera coherente, también aplicando conceptos como experiencia de usuario y uso de gamificacion.
 
 ## Objetivo del proyecto
 Desarrollar un video interactivo aplicando lo visto en la asignatura Seminario Taller Multimedia
